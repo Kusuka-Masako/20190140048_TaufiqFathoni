@@ -1,0 +1,17 @@
+.kotak{
+    background-color: black;
+}
+.produk{
+    border: 1px solid black;
+}
+
+.welcome{
+    font-style: inherit;
+    font-size: 90px;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    top: 5px;
+    color: rgb(255, 255, 255);
+    left: 15px;
+
+}
